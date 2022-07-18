@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+p{
+	color: red;
+	text-align: center;
+	font-size: 22px;
+}
+input[name=cclose_amount]{
+	position: absolute;
+	background-color: #d1d1e0;
+	color: black;
+	height: 40px;
+	width: 200px;
+	margin-right: 250px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+input[name=cclose_amount]:hover{
+	background-color: whitesmoke;
+	color: black;
+	transition: 0.5s;
+}
+
+/*..................login styel.......................*/
+
+
